@@ -1,13 +1,13 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="700" width="1400" src="./image/Blue and Green Illustrated Nature Desktop Wallpaper.png"  />
+
+
 </div>
 
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
- 
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
@@ -18,45 +18,57 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hola, soy Guillermo 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Me</h3>
+Estoy dando mis primeros pasos en el mundo de la
+<br>
+programacion como desarrollador .NET
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h3 align="left">💡Actualmente estoy aprendiendo...</h3>
+
+-Desarrollo ASP.NET (MVC)
+<br>
+-Actual estudiande de ISVDR 
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+###
+
+<h3 align="left">🛠 Lenguaje y Herramientas</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+<img src="./image/ASP.NET MVC.png" width="70" height="40"/>
+<img src="./image/SQL SERVER 2.png" width="80" height="60"/>
+
+  
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+###
+
+<h3 align="left">📚 Intereses</h3>
+
+<div align="left">
+Me apasiona la contruccion logica de un servidor.
+<br>
+Siempre estoy aprendiendo y buscando nuevas maneras de aplicar la tecnología para resolver problemas del mundo real.
+</div>
+
+###
+
+
+<h3 align="left">🔥   Mis estadisticas :</h3>
 
 ###
 
