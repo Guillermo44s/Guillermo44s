@@ -33,7 +33,7 @@ programacion como desarrollador .NET
 
 -Desarrollo ASP.NET (MVC)
 <br>
--Actual estudiande de ISVDR 
+-Actual estudiande de ISVDR 3° año Desarrollo software
 
 ###
 
