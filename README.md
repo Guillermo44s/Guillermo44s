@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" width="1400" src="./image/Blue and Green Illustrated Nature Desktop Wallpaper (1).png"  />
+  <img height="500" width="1400" src="./image/Blue and Green Illustrated Nature Desktop Wallpaper (2).png"  />
 
 
 </div>
