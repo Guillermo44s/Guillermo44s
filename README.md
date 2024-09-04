@@ -23,7 +23,7 @@
 ###
 
 <h3 align="left">👩‍💻 Me</h3>
-Estoy dando mis primeros pasos en el mundo de la
+-Estoy dando mis primeros pasos en el mundo de la
 <br>
 programacion como desarrollador .NET
 
