@@ -23,12 +23,11 @@
 ###
 
 <h3 align="left">👩‍💻 Me</h3>
-Soy un programador de software apasionado con experiencia en proyectos personales utilizando C#, ASP.NET Web Forms (framework 4.7), y SQL. Me gusta 
+Soy un programador de software apasionado con experiencia en proyectos personales utilizando C#, ASP.NET Web Forms (framework 4.7), y SQL.
+<br> 
+Me gusta resolver problemas complejos a través del desarrollo de aplicaciones eficientes y funcionales. 
 <br>
-resolver problemas complejos a través del desarrollo de aplicaciones eficientes y funcionales. Mi objetivo es iniciar mi carrera en la industria 
-<br>
-tecnológica, contribuyendo con mis habilidades a equipos dinámicos y orientados a la innovación.
-
+Mi objetivo es iniciar mi carrera en la industria tecnológica, contribuyendo con mis habilidades a equipos dinámicos y orientados a la innovación.
 <br>
 Estoy buscando oportunidades para aprender y crecer como desarrollador, y estoy comprometido con el aprendizaje continuo de nuevas tecnologías.
 
